@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.596553287981859 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 15.596553287981859 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9702836647295439 
+            text = "xxx" 
+        intervals [2]:
+            xmin = 0.9702836647295439 
+            xmax = 2.6844241616152473 
+            text = "pata" 
+        intervals [3]:
+            xmin = 2.6844241616152473 
+            xmax = 3.2672319305563864 
+            text = "xxx" 
+        intervals [4]:
+            xmin = 3.2672319305563864 
+            xmax = 5.141358873818088 
+            text = "bata" 
+        intervals [5]:
+            xmin = 5.141358873818088 
+            xmax = 5.644173419571228 
+            text = "xxx" 
+        intervals [6]:
+            xmin = 5.644173419571228 
+            xmax = 7.43830713964493 
+            text = "tata" 
+        intervals [7]:
+            xmin = 7.43830713964493 
+            xmax = 7.963976892023212 
+            text = "xxx" 
+        intervals [8]:
+            xmin = 7.963976892023212 
+            xmax = 9.769538215409487 
+            text = "data" 
+        intervals [9]:
+            xmin = 9.769538215409487 
+            xmax = 10.29520796778777 
+            text = "xxx" 
+        intervals [10]:
+            xmin = 10.29520796778777 
+            xmax = 12.237900530924898 
+            text = "cata" 
+        intervals [11]:
+            xmin = 12.237900530924898 
+            xmax = 12.512163010426612 
+            text = "xxx" 
+        intervals [12]:
+            xmin = 12.512163010426612 
+            xmax = 14.397717557000885 
+            text = "gata" 
+        intervals [13]:
+            xmin = 14.397717557000885 
+            xmax = 15.596553287981859 
+            text = "xxx" 
