@@ -1,7 +1,5 @@
-Slides
+Programming
 ================
-
-This is where my slides live.
 
     ## .
     ## ├── README.Rmd
