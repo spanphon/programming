@@ -6,12 +6,8 @@ output: github_document
 
 This is where my slides live. 
 
-```{r, echo=F, message=F, warning=F, results="asis"}
-library("glue")
+```{r, echo=F}
 library("fs")
-
-the_slides <- dir_ls(regexp = "^[0-9]")
-glue("- [{the_slides}](https://www.spanphon.jvcasillas.com/slides/{the_slides}/index.html)")
-
+dir_tree(recurse = F)
 ```
 
